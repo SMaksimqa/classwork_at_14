@@ -24,7 +24,7 @@ Self-taught + курсы + практика. Фокус: ручное тести
 Ключевые сильные стороны:  
 - Детальные, developer-friendly баг-репорты  
 - Тест-дизайн (boundary, negative, state transitions)  
-- Мобильный веб + Android (Charles, ADB)  
+- Мобильный веб + Android (Charles)  
 - Accessibility basics (screen readers, contrast)  
 
 ---
@@ -33,8 +33,8 @@ Self-taught + курсы + практика. Фокус: ручное тести
 
 | # | Что именно                              | Почему стоит глянуть                        | Путь в репо                                      | Инструменты / подход                     |
 |---|-----------------------------------------|---------------------------------------------|--------------------------------------------------|------------------------------------------|
-| 1 | Реальные баг-репорты (Booking, Ozon, Kamkombank) | Mobile Web баги, видео + скрины + воспроизведение | /manual-testing/bug-reports                      | Charles, DevTools, Loom видео            |
-| 2 | Чек-листы + тест-кейсы (e-commerce / fintech flows) | Полные user journeys, edge cases            | /manual-testing/checklists-test-cases            | Mind maps (Xmind), equivalence classes   |
+| 1 | Реальные баг-репорты (Booking, Ozon, Kamkombank) | Mobile Web баги, видео + скрины + воспроизведение | /manual-testing/bug-reports                      | Charles, DevTools            |
+| 2 | Чек-листы + тест-кейсы (e-commerce / fintech flows) | Полные user journeys, edge cases            | /manual-testing/checklists-test-cases            |  equivalence classes   |
 | 4 | API testing (Postman коллекции)         | CRUD, auth, negative, response validation   | /api-testing                                     | Postman, Charles proxy                   |
 | 5 | SQL для QA (data validation)            | Проверки после действий пользователя        | /sql                                             | PostgreSQL, joins, aggregates            |
 | 6 | Базовая UI-автоматизация (1 проект)     | Показываю, что базу знаю (Herokuapp login)  | /automation/selenium-basics                      | Selenium, Pytest, Allure — basics        |
@@ -65,11 +65,11 @@ Self-taught + курсы + практика. Фокус: ручное тести
 - Углубить exploratory + usability/accessibility  
 - Освоить Appium basics (native mobile)  
 - Больше реальных проектов (open-source testing)  
-- Не гнаться за full automation — фокус на качестве manual
+ 
 
 Готов к Junior Manual QA ролям в Москве / Remote.  
 Пиши в Telegram @high24 — рад обсудить тестирование!
 
-<p align="center">🚀 Ищу место, где manual testing ценят по-настоящему</p>
+
 
 Обновлено: March 2026
