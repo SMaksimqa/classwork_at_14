@@ -39,7 +39,7 @@ Self-taught + курсы + практика. Фокус: ручное тести
 | 5 | SQL для QA (data validation)            | Проверки после действий пользователя        | /sql                                             | PostgreSQL, joins, aggregates            |
 | 6 | Базовая UI-автоматизация (1 проект)     | Показываю, что базу знаю (Herokuapp login)  | /automation/selenium-basics                      | Selenium, Pytest, Allure — basics        |
 | 7 | Charles Proxy examples                  | Intercept, mock, throttling на реальном трафике | /tools/charles                                   | Charles для web/mobile testing           |
-| 8 | Linux basics (CLI + test run)           | Команды, запуск тестов в Ubuntu             | /tools/linux                                     | WSL, bash скрипты                        |
+| 8 | Linux basics                            | Команды, запуск тестов в Ubuntu             | /tools/linux                                     | WSL, bash скрипты                        |
 
 → [Вся структура репо](https://github.com/SMaksimqa/QA-manual-testing-portfolio/tree/main)
 
@@ -60,10 +60,10 @@ Self-taught + курсы + практика. Фокус: ручное тести
 
 ---
 
-### Планы (честные)
+### Планы 
 
-- Углубить exploratory + usability/accessibility  
-- Освоить Appium basics (native mobile)  
+- Углубить exploratory testing
+- Освоить pytest parametrize и fixture поглубже  
 - Больше реальных проектов (open-source testing)  
  
 
